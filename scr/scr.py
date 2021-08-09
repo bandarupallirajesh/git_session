@@ -1,7 +1,6 @@
 new file
 
-<<<<<<< HEAD
 # added base feature 1
-=======
 # added base feature2
->>>>>>> rel_1.0
+
+# Added new branch rel_2.0
