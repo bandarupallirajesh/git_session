@@ -7,6 +7,7 @@
 # Added new files in scr 
 new file
 
+<<<<<<< HEAD
 # Added new feature rel_1.0
 
 <<<<<<< HEAD
@@ -14,3 +15,6 @@ new file
 =======
 # added base feature2
 >>>>>>> rel_1.0
+=======
+# Added new feature in rel_1.1
+>>>>>>> feature1 on rel_1.1
