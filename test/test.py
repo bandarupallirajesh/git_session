@@ -8,3 +8,5 @@ new file
 
 ## Added feature1
 # Added feature1
+
+# Added new branch rel_1.2
